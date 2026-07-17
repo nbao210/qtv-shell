@@ -25,6 +25,8 @@ Thank you for your interest in contributing to Q-TV! This guide explains how to 
 > [!NOTE]
 > Q-TV is currently under active development. Some features may change, break, or be redesigned in future updates.
 
+# Language
+
 <details>
 <summary>English</summary>
 
@@ -98,7 +100,7 @@ Before opening a pull request:
 
 </details>
 
-***
+---
 
 <details>
 <summary>Tiếng Việt</summary>
