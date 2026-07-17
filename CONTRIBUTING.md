@@ -98,11 +98,11 @@ Before opening a pull request:
 
 </details>
 
-<details>
-<summary>Tiếng Việt</summary>
-
 > [!TIP]
 > Contributor Việt Nam có thể sử dụng tiếng Việt khi trao đổi hoặc báo lỗi. Tiếng Anh được khuyến khích cho Pull Request và tài liệu công khai để việc cộng tác trở nên dễ dàng hơn với mọi người.
+
+<details>
+<summary>Tiếng Việt</summary>
 
 ## Chuẩn Bị
 
