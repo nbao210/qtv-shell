@@ -199,17 +199,20 @@ Q-TV is designed to run on a wide range of PC hardware, including older systems 
 > [!NOTE]
 > Keyboard and mouse input are supported for development and setup, but a remote control is recommended for the intended TV experience.
 
-For the best experience with Q-TV, we recommend using remote controls that support the standard USB HID (2.4GHz) protocol or Bluetooth HID Low-energy (LE). The following devices have been verified to work well:
+For the best experience with Q-TV, we recommend using remote controls that support standard USB HID (2.4GHz) or Bluetooth HID (including Bluetooth Low Energy - BLE).
+
+The following devices are recommended based on HID compatibility and TV-style usability:
 
 | Device | Type | Notes |
 |---|---|---|
-| **G20S / G20S Pro / G20S Pro BT** | Air Mouse | Recommended. Supports gyroscope, high sensitivity. |
-| **MX3** / **Mini KM900**| Air Mouse + Keyboard | Features a rear QWERTY keyboard for convenient text input.s |
-| **Logitech K400** | Keyboard/Touchpad | Works perfectly as a standard computer keyboard. |
+| **G20S / G20S Pro / G20S Pro BT** | Air Mouse | Recommended. Supports gyroscope control and provides accurate pointer movement. |
+| **MX3** / **Mini KM900** | Air Mouse + Keyboard | Includes a rear QWERTY keyboard for convenient text input. |
+| **Logitech K400** | Keyboard/Touchpad | Works as a standard computer keyboard and touchpad. |
 
 > [!TIP]
-> **Need a compatible remote?** Use the keyword **"Air Mouse"** when searching on e-commerce platforms. These devices almost always support the HID standard (USB/Bluetooth), ensuring seamless "Plug & Play" compatibility with your Q-TV system.
-> **Why should you choose an Air Mouse?** Models like the G20S Pro help you navigate the "app-first" interface of Q-TV quickly without needing a traditional computer mouse. If used at night, the **G20S Pro** version with backlit keys is very useful.
+> **Looking for a compatible remote?** Use the keyword **"Air Mouse"** when searching on e-commerce platforms. These devices usually support HID standards (USB/Bluetooth), providing better compatibility and a more seamless "Plug & Play" experience with Q-TV.
+>
+> **Why choose an Air Mouse?** Models like the **G20S Pro** make navigating Q-TV's "app-first" interface easier without requiring a traditional computer mouse. A backlit version can also be useful when using Q-TV in low-light environments.
 
 
 ## Installation

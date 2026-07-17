@@ -199,7 +199,7 @@ Q-TV được thiết kế để chạy trên nhiều phần cứng PC, bao gồ
 > [!NOTE]
 > Hỗ trợ dùng bàn phím và chuột cho quá trình phát triển và thiết lập, nhưng khuyến nghị sử dụng điều khiển từ xa để tận hưởng trải nghiệm TV đúng nghĩa.
 
-Để có trải nghiệm tốt nhất với Q-TV, chúng tôi khuyến nghị sử dụng các thiết bị điều khiển từ xa hỗ trợ chuẩn USB HID (2.4GHz) hoặc Bluetooth HID Low-energy (LE). Các thiết bị dưới đây đã được kiểm chứng hoạt động ổn định:
+Để có trải nghiệm tốt nhất với Q-TV, chúng tôi khuyến nghị sử dụng các thiết bị điều khiển từ xa hỗ trợ chuẩn USB HID (2.4GHz) hoặc Bluetooth HID (Bao gồm Bluetooth Low Energy - LE). Một số thiết bị có thể hoạt động:
 
 | Thiết bị | Loại | Ghi chú |
 |---|---|---|
@@ -208,8 +208,9 @@ Q-TV được thiết kế để chạy trên nhiều phần cứng PC, bao gồ
 | **Logitech K400** | Keyboard/Touchpad | Hoạt động hoàn hảo như bàn phím máy tính tiêu chuẩn. |
 
 > [!TIP]
-> **Bạn cần tìm remote tương thích?** Hãy sử dụng từ khóa **"Air Mouse"** khi tìm kiếm trên các sàn thương mại điện tử. Các thiết bị này gần như luôn hỗ trợ chuẩn HID (USB/Bluetooth), đảm bảo khả năng tương thích "cắm là chạy" (Plug & Play) với hệ thống Q-TV của bạn.
-> **Tại sao nên chọn Air Mouse?** Các model như G20S Pro giúp bạn điều hướng giao diện "app-first" của Q-TV nhanh chóng mà không cần đến chuột máy tính truyền thống. Nếu sử dụng vào ban đêm, phiên bản **G20S Pro** có đèn nền (backlit) sẽ rất hữu ích.
+> Khi tìm kiếm remote, hãy sử dụng từ khóa **"Air Mouse"**. Các thiết bị này thường hỗ trợ HID qua USB hoặc Bluetooth, giúp tương thích tốt hơn với Q-TV.
+>
+> Các model có bàn phím QWERTY hoặc đèn nền (backlight) có thể mang lại trải nghiệm tốt hơn khi nhập liệu hoặc sử dụng trong môi trường thiếu sáng.
 
 
 ## Cài đặt
