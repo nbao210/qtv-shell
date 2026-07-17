@@ -27,10 +27,10 @@ experience to your desktop with an app-first design.
 </p>
 
 <p>
-<img src="https://img.shields.io/github/license/nbao210/qtv-shell?label=license&style=flat-square">
-<img src="https://img.shields.io/github/stars/nbao210/qtv-shell?style=flat-square&logo=github">
-<img src="https://img.shields.io/github/forks/nbao210/qtv-shell?style=flat-square&logo=github">
-<img src="https://img.shields.io/github/issues/nbao210/qtv-shell?style=flat-square&logo=github">
+<img src="https://img.shields.io/github/license/nbao210/qtv-shell?style=flat-square&cacheSeconds=60">
+<img src="https://img.shields.io/github/stars/nbao210/qtv-shell?style=flat-square&logo=github&cacheSeconds=60">
+<img src="https://img.shields.io/github/forks/nbao210/qtv-shell?style=flat-square&logo=github&cacheSeconds=60">
+<img src="https://img.shields.io/github/issues/nbao210/qtv-shell?style=flat-square&logo=github&cacheSeconds=60">
 </p>
 
 <p>
