@@ -199,6 +199,19 @@ Q-TV is designed to run on a wide range of PC hardware, including older systems 
 > [!NOTE]
 > Keyboard and mouse input are supported for development and setup, but a remote control is recommended for the intended TV experience.
 
+For the best experience with Q-TV, we recommend using remote controls that support the standard USB HID (2.4GHz) protocol or Bluetooth HID Low-energy (LE). The following devices have been verified to work well:
+
+| Device | Type | Notes |
+|---|---|---|
+| **G20S / G20S Pro / G20S Pro BT** | Air Mouse | Recommended. Supports gyroscope, high sensitivity. |
+| **MX3** / **Mini KM900**| Air Mouse + Keyboard | Features a rear QWERTY keyboard for convenient text input.s |
+| **Logitech K400** | Keyboard/Touchpad | Works perfectly as a standard computer keyboard. |
+
+> [!TIP]
+> **Need a compatible remote?** Use the keyword **"Air Mouse"** when searching on e-commerce platforms. These devices almost always support the HID standard (USB/Bluetooth), ensuring seamless "Plug & Play" compatibility with your Q-TV system.
+> **Why should you choose an Air Mouse?** Models like the G20S Pro help you navigate the "app-first" interface of Q-TV quickly without needing a traditional computer mouse. If used at night, the **G20S Pro** version with backlit keys is very useful.
+
+
 ## Installation
 
 Q-TV is currently in early development. Installation methods are focused on running from source.
