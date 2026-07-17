@@ -98,8 +98,7 @@ Before opening a pull request:
 
 </details>
 
-> [!TIP]
-> Contributor Việt Nam có thể sử dụng tiếng Việt khi trao đổi hoặc báo lỗi. Tiếng Anh được khuyến khích cho Pull Request và tài liệu công khai để việc cộng tác trở nên dễ dàng hơn với mọi người.
+
 
 <details>
 <summary>Tiếng Việt</summary>
@@ -173,3 +172,6 @@ Trước khi tạo pull request:
 - Nếu có thay đổi về giao diện, hãy đính kèm ảnh chụp màn hình khi có thể.
 
 </details>
+
+> [!TIP]
+> Contributor Việt Nam có thể sử dụng tiếng Việt khi trao đổi hoặc báo lỗi. Tiếng Anh được khuyến khích cho Pull Request và tài liệu công khai để việc cộng tác trở nên dễ dàng hơn với mọi người.
