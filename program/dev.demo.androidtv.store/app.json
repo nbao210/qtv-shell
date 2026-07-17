@@ -1,0 +1,7 @@
+{
+    "id": "dev.demo.androidtv.store",
+    "name": "Google Play Store",
+    "vendor": "Google",
+    "version": "1.0.0",
+    "icon": "assets\\640x360.png"
+}

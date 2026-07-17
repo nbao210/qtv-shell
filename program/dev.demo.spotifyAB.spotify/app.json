@@ -1,0 +1,7 @@
+{
+    "id": "dev.demo.spotifyAB.spotifymusic",
+    "name": "Spotify",
+    "vendor": "Spotify Music",
+    "version": "1.0.0",
+    "icon": "banner\\banner.png"
+}
