@@ -17,8 +17,7 @@ Thank you for your interest in contributing to Q-TV! This guide explains how to 
 > [!TIP]
 > New to open source? Take a moment to read the [Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette) guide first. It provides useful guidelines and practices to help you contribute effectively and respectfully.
 
-> [!TIP]
-> Contributor Việt Nam có thể sử dụng tiếng Việt khi trao đổi hoặc báo lỗi. Tiếng Anh được khuyến khích cho Pull Request và tài liệu công khai để việc cộng tác trở nên dễ dàng hơn với mọi người.
+
 
 > [!IMPORTANT]
 > A basic understanding of Git and GitHub is expected. If these tools are still unfamiliar, check out [GitHub for complete beginners](https://github.com/git-guides#learning-git-basics) to learn the fundamentals before continuing.
@@ -101,7 +100,9 @@ Before opening a pull request:
 
 <details>
 <summary>Tiếng Việt</summary>
-<br>
+
+> [!TIP]
+> Contributor Việt Nam có thể sử dụng tiếng Việt khi trao đổi hoặc báo lỗi. Tiếng Anh được khuyến khích cho Pull Request và tài liệu công khai để việc cộng tác trở nên dễ dàng hơn với mọi người.
 
 ## Chuẩn Bị
 
