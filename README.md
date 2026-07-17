@@ -30,6 +30,8 @@ experience to your desktop with an app-first design.
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
 [![AppImage](https://img.shields.io/badge/AppImage-Supported-6F42C1?style=flat-square&logo=appimage&logoColor=white)](https://appimage.org/)
 
+[Englist](README.md) | [Tiếng Việt](README-vi.md)
+
 </div>
 
 ## Screenshots
@@ -51,6 +53,7 @@ experience to your desktop with an app-first design.
 - [Requirements And Recommendations](#requirements-and-recommendations)
 - [Installation](#installation)
 - [Roadmap](#roadmap)
+- [Languages](#languages)
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [License](#license)
@@ -256,6 +259,13 @@ Develop built-in Q-TV applications:
 - Build a complete Linux-powered TV platform ecosystem.
 
 </details>
+
+## Languages
+| Language Code | Language | Native Name | Translator | Note |
+|---|---|---|---|---|
+| en | English (US) | English | [nbao210](https://github.com/nbao210) | Primary & recommended |
+| vi | Vietnamese | Tiếng Việt | [nbao210](https://github.com/nbao210) | 90% hoàn thiện |
+
 
 ## Contributing
 
