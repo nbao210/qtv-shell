@@ -7,7 +7,8 @@ from PySide6.QtWidgets import (
 from PySide6.QtGui import QPixmap, QPainter, QPainterPath, QFontMetrics, QColor, QPen, QIcon, QLinearGradient, QPainterPathStroker
 from PySide6.QtCore import QRectF, QTimer, Qt, QSize, QPropertyAnimation, QRect, QEasingCurve, QVariantAnimation, Property
 from utils.iconfinder import iconPixmap
-from services.NavManager import NavArea
+from core.NavigationManager import NavArea
+from i18n import tr
 
 
 def roundedPixmap(path, size, radius):
@@ -406,9 +407,9 @@ class HomeBar(QTabWidget, NavArea):
 
         settings_label = Settings()
 
-        self.addTab(self.AppList, QIcon(iconPixmap("\uf015", 50, "#FFFFFF")), "Home")
-        self.addTab(settings_label, QIcon(iconPixmap("\uf013", 50, "#FFFFFF")), "Settings")
-        self.addTab(Wallpaper(), QIcon(iconPixmap("\uf302", 50, "#FFFFFF")), "Wallpaper")
+        self.addTab(self.AppList, QIcon(iconPixmap("\uf015", 50, "#FFFFFF")), tr("Home"))
+        self.addTab(settings_label, QIcon(iconPixmap("\uf013", 50, "#FFFFFF")), tr("Settings"))
+        self.addTab(Wallpaper(), QIcon(iconPixmap("\uf302", 50, "#FFFFFF")), tr("Wallpaper"))
         self.setIconSize(QSize(22, 22))
 
         self.currentChanged.connect(self.onTabChanged)
@@ -587,10 +588,10 @@ class Settings(QWidget):
         iconlbl.setPixmap(QPixmap(iconPixmap("\uF7D9", 80, "#FFFFFF")).scaled(70, 70, Qt.KeepAspectRatio, Qt.SmoothTransformation))
         iconlbl.setAlignment(Qt.AlignCenter)
 
-        lbl = QLabel("Oops, Under Construction")
+        lbl = QLabel(tr("oops, under construction"))
         lbl.setStyleSheet("color: white; font-size: 25px; font-family: Segoe UI;")
 
-        smllbl = QLabel("Back here soon...")
+        smllbl = QLabel(tr("back here soon..."))
         smllbl.setStyleSheet("color: white; font-size: 15px; font-family: Segoe UI;")
         smllbl.setAlignment(Qt.AlignCenter) 
 
@@ -622,10 +623,10 @@ class Wallpaper(QWidget):
         iconlbl.setPixmap(QPixmap(iconPixmap("\uF7D9", 80, "#FFFFFF")).scaled(70, 70, Qt.KeepAspectRatio, Qt.SmoothTransformation))
         iconlbl.setAlignment(Qt.AlignCenter)
 
-        lbl = QLabel("Oops, Under Construction")
+        lbl = QLabel(tr("oops, under construction"))
         lbl.setStyleSheet("color: white; font-size: 25px; font-family: Segoe UI;")
 
-        smllbl = QLabel("Back here soon...\n Special Thanks to WallpapersCraft")
+        smllbl = QLabel(tr("back here soon...") + "\n " + tr("Special thanks to ") + "WallpapersCraft")
         smllbl.setStyleSheet("color: white; font-size: 15px; font-family: Segoe UI;")
         smllbl.setAlignment(Qt.AlignCenter) 
 

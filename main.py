@@ -2,14 +2,21 @@ import sys
 from PySide6.QtWidgets import QApplication, QWidget, QLabel, QPushButton
 from PySide6.QtCore import Qt, QObject, Signal
 from PySide6.QtGui import QPainter, QBrush, QPixmap
-from services.NavManager import NavManager, NavArea
+from core.NavigationManager import NavManager, NavArea
 import os
+import i18n
 from qtvui.home.HomeBack import HomeBack
 from qtvui.home.HomeBar import HomeBar
-from services.appsmanager import AppManager
+from core.AppsManager import AppManager
 from utils.resourcepath import spath
+from core.SettingsManager import SettingsManager
+from i18n.LanguageManager import LanguageManager
 
+settings = SettingsManager()    
 manager = AppManager(spath("program"))
+i18n.initialize(settings)
+
+
 apps = manager.scan_apps()
 for app in apps:
     print(app.name, app.icon)
