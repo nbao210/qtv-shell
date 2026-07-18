@@ -35,7 +35,7 @@ class WallpapersCraftProvider:
     def getWallpaperUrl(self):
         try:
             count = self.getWallpaperCount()
-            totalPages = math.ceil(count / 15)
+            totalPages = 50
             page = random.randint(1, totalPages)
 
             catalogUrl = (

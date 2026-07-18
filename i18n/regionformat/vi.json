@@ -1,0 +1,46 @@
+{
+  "time": {
+    "format": {
+      "first_day": [
+        "Thứ hai",
+        "Thứ ba",
+        "Thứ tư",
+        "Thứ năm",
+        "Thứ sáu",
+        "Thứ bảy",
+        "Chủ nhật"
+      ],
+      "short_date": ["dd/MM/yyyy", "dd/MM/yy", "d/M/yy"],
+      "long_date": ["dddd, ngày d tháng M năm yyyy", "dd Tháng M năm yyyy"],
+      "short_time_12h": ["h:mm", "hh:mm"],
+      "short_time_24h": ["HH:mm", "H:mm"],
+      "long_time_12h": ["h:mm:ss", "hh:mm:ss"],
+      "long_time_24h": ["HH:mm:ss", "H:mm:ss"],
+      "am_sym": ["SA", "AM"],
+      "pm_sym": ["CH", "PM"]
+    },
+    "dayweek": [
+      "Thứ hai",
+      "Thứ ba",
+      "Thứ tư",
+      "Thứ năm",
+      "Thứ sáu",
+      "Thứ bảy",
+      "Chủ nhật"
+    ],
+    "month": [
+      "Tháng 1",
+      "Tháng 2",
+      "Tháng 3",
+      "Tháng 4",
+      "Tháng 5",
+      "Tháng 6",
+      "Tháng 7",
+      "Tháng 8",
+      "Tháng 9",
+      "Tháng 10",
+      "Tháng 11",
+      "Tháng 12"
+    ]
+  }
+}

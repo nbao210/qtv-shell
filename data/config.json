@@ -1,5 +1,24 @@
 {
-    "ui": {
-        "lang": "en"
+    "appearance": {
+        "clock_type_analog": false
+    },
+    "time": {
+        "zone": "Asia/Ho_Chi_Minh",
+        "manual": false,
+        "24h": false,
+        "regionformat": "vi",
+        "format": {
+            "first_day": 0,
+            "short_date": "dd/MM/yyyy",
+            "long_date": "dddd, ng\u00e0y d th\u00e1ng M n\u0103m yyyy",
+            "short_time": "h:mm",
+            "long_time": "h:mm:ss",
+            "am_sym": "AM",
+            "pm_sym": "PM"
+        }
+    },
+    "language": {
+        "code": "en",
+        "name": "English"
     }
 }

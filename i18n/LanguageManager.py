@@ -5,7 +5,7 @@ from utils.resourcepath import spath
 class LanguageManager:
     def __init__(self, SettingsManager):
         self.settings = SettingsManager
-        self.settings.get("ui.lang", "en")   
+        self.settings.get("language.code", "en")
 
         self.translator = Translator()
         self.translator.load(self.getLanguage())
@@ -14,8 +14,8 @@ class LanguageManager:
         return self.translator.tr(key)
 
     def getLanguage(self):
-        return self.settings.get("ui.lang", "en")
+        return self.settings.get("language.code", "en")
 
     def setLanguage(self, language):
-        self.settings.set("ui.lang", language)
+        self.settings.set("language.code", language)
         self.translator.load(language)

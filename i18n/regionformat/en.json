@@ -1,0 +1,46 @@
+{
+  "time": {
+    "dayweek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "format": {
+      "am_sym": ["AM"],
+      "first_day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "long_date": ["dddd, MMMM d, yyyy", "MMMM d, yyyy"],
+      "long_time_12h": ["h:mm:ss AP", "hh:mm:ss AP"],
+      "long_time_24h": ["HH:mm:ss", "H:mm:ss"],
+      "pm_sym": ["PM"],
+      "short_date": ["MM/dd/yyyy", "MM/dd/yy", "M/d/yy"],
+      "short_time_12h": ["h:mm AP", "hh:mm AP"],
+      "short_time_24h": ["HH:mm", "H:mm"]
+    },
+    "month": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  }
+}
